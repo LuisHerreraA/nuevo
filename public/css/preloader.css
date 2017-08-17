@@ -1,0 +1,21 @@
+#preloader {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    overflow: visible;
+    background: url('/img/Pacman.gif') no-repeat center center;
+ }
+
+#content {
+    display: none;
+}
+
+#preloader2 {
+    position: fixed;
+    width: 92%;
+    height: 40%;
+    z-index: 888;
+    overflow: visible;
+    background: url('/img/load.gif') no-repeat center center;
+ }
