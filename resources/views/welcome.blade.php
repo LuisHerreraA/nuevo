@@ -5,7 +5,7 @@
 @section('cuerpo')
 
   <br> <br> <br>
-<center><h1>SUPER REST LVL CAMBIO</h1></center>
+<center><h1>otro CAMBIO</h1></center>
   <div class="form-group">
     <label for="email" class="col-sm-2 control-label">Email</label>
     <div class="col-sm-10">
